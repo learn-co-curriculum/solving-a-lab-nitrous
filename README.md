@@ -18,8 +18,7 @@ Read the lab's README on Learn and get a sense of what the lab is about and what
 
 Before doing any work, run the test suite from your local clone with the `learn` CLI command. From your console, in a lab's directory, run `learn`, you'll see something similar to:
 
-![Failing Test](https://dl.dropboxusercontent.com/s/0ik01a1urmuw7o6/2015-09-30%20at%207.46%20PM.png)
-[SCREENSHOT NEEDED - open a lab and run learn, screenshot the stuff about failed tests]
+![Failing Test](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_fail.png)
 
 I know error messages or failure messages are intimidating, but try to read them. Developers are detectives, constantly sleuthing for which bug is the culprit. Errors and failures are our clues, they illuminate the path forward.
 
@@ -87,8 +86,7 @@ Programming is never about getting it all right at once. Programming is like sol
 Follow this workflow, running tests, reading errors, writing code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're just stuck or tired and just need some help, Ask a Question and the Learn community is here for you.
 
 Eventually your local tests will pass and Learn.co will indicate your success.
-![Pass](https://dl.dropboxusercontent.com/s/36nudmkxwmvrow9/2015-10-01%20at%2011.38%20PM.png)
-[Screenshot needed -- analogous shot on Nitrous]
+![Pass](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_success.png)
 
 On the left is a passing test run in the console, on the right is what the right column in Learn looks like for a passing local test (which we currently call a "Local Build").
 
