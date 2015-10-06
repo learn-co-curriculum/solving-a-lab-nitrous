@@ -1,4 +1,4 @@
-# Solving a Lab - OSX
+# Solving a Lab - Nitrous
 
 ## Overview
 
@@ -16,17 +16,17 @@ Read the lab's README on Learn and get a sense of what the lab is about and what
 
 ### 2. Run the tests with `learn`
 
-Before doing any work, run the test suite from your local clone with the `learn` CLI command. From your terminal, in a lab's directory, run `learn`, you'll see something similar to:
+Before doing any work, run the test suite from your local clone with the `learn` CLI command. From your console, in a lab's directory, run `learn`, you'll see something similar to:
 
-![Failing Test](https://dl.dropboxusercontent.com/s/0ik01a1urmuw7o6/2015-09-30%20at%207.46%20PM.png)
+![Failing Test](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_fail.png)
 
-I know error messages or failure messages are intimidating, but try to read them. Developers are detectives, constantly sleuthing for the bug that's the culprit. Errors and failures are our clues, they illuminate the path forward.
+I know error messages or failure messages are intimidating, but try to read them. Developers are detectives, constantly sleuthing for which bug is the culprit. Errors and failures are our clues, they illuminate the path forward.
 
 We know that the idea of "things being broken" is frightening at first. Broken things are stressful and frustrating! But guess what? As an engineer, as a programmer, the default state of anything you work on is broken. The things you are programming are always broken. Get used to it. Your job is to fix broken things. You can do it. If your code isn't broken, if your code works, you are no longer programming, you're job is done, things work. Embrace the errors. The obstacle is the way.
 
 ### 3. Read the tests
 
-Read the test suite in `spec/`. Open up the lab in your text editor, open the files in the `spec` directory that are not named `spec_helper.rb`. `spec_helper.rb` is a helper file to configure your tests which you can ignore. Any file in `spec` that ends in `_spec.rb` though is a test file and while testing code and RSpec are advanced, we believe the semantics are easy to understand, the meaning of the test is comprehensible, even if the code is not. For example, soon you'll be solving your first lab. The lab includes a file `spec/first_lab_spec.rb`. The contents will be:
+Read the test suite in `spec/`. Open up the lab in the text editor, open the files in the `spec` directory that are not named `spec_helper.rb`. `spec_helper.rb` is a helper file to configure your tests which you can ignore. Any file in `spec` that ends in `_spec.rb` though is a test file and while testing code and RSpec are advanced, we believe the semantics are easy to understand, the meaning of the test is comprehensible, even if the code is not. For example, soon you'll be solving your first lab. The lab includes a file `spec/first_lab_spec.rb`. The contents will be:
 
 ```ruby
 describe 'First Lab:' do
@@ -38,7 +38,7 @@ describe 'First Lab:' do
 end
 ```
 
-You haven't even written a line of code yet and we're asking you to read some very abstract and complex code and try to reach for any footing or understanding. We believe in you. We believe you can infer and deduce and understand a bit of the code above, even with no experience. Your mind is  incredibly powerful. Challenge yourself confronting the unknown, that's how learning works.
+You haven't even written a line of code yet and we're asking you to read some very abstract and complex code and try to reach for any footing or understanding. We believe in you. We believe you can infer and deduce and understand a bit of the code above, even with no experience. Your mind is  incredibly powerful. Challenge yourself confronting the unknown. That's how learning works.
 
 Beyond all the syntax and code above, can you decipher what we're asking for? What the lab requires you to do? How the test works? Again, even if you only get 10% of the expectations of the test, that's still something. And while you do that, 4 things will happen.
 
@@ -56,7 +56,7 @@ This cycle, reviewing the README, running the tests, reading failure messages, r
 
 ### 4. Write Your Code
 
-After forking and cloning the lab, opening the lab in a text editor, reading the README, running the test suite, reading the errors, and reading the tests themselves in `spec`, you're ready to code. You've armed yourself with every weapon available in the arsenal of your intellect and we know you can program triumphantly.
+After forking and cloning the lab, opening the lab in the text editor, reading the README, running the test suite, reading the errors, and reading the tests themselves in `spec`, you're ready to code. You've armed yourself with every weapon available in the arsenal of your intellect and we know you can program triumphantly.
 
 You should understand the point of the lab.
 
@@ -86,8 +86,9 @@ Programming is never about getting it all right at once. Programming is like sol
 Follow this workflow, running tests, reading errors, writing code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're just stuck or tired and just need some help, Ask a Question and the Learn community is here for you.
 
 Eventually your local tests will pass and Learn.co will indicate your success.
-![Pass](https://dl.dropboxusercontent.com/s/36nudmkxwmvrow9/2015-10-01%20at%2011.38%20PM.png)
 
-On the left is a passing test run in the terminal, on the right is what the right column in Learn for a passing local test (which we currently call a "Local Build").
+![Pass](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_success.png)![Lights](https://curriculum-content.s3.amazonaws.com/learn-ver/local_build_passes.png)
+
+On the left is a passing test run in the console, on the right is what the right column in Learn looks like for a passing local test (which we currently call a "Local Build").
 
 When your local tests are passing, you're ready to submit the lab.
