@@ -86,7 +86,8 @@ Programming is never about getting it all right at once. Programming is like sol
 Follow this workflow, running tests, reading errors, writing code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're just stuck or tired and just need some help, Ask a Question and the Learn community is here for you.
 
 Eventually your local tests will pass and Learn.co will indicate your success.
-![Pass](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_success.png)
+
+![Pass](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_success.png)![Lights](https://curriculum-content.s3.amazonaws.com/learn-ver/local_build_passes.png)
 
 On the left is a passing test run in the console, on the right is what the right column in Learn looks like for a passing local test (which we currently call a "Local Build").
 
