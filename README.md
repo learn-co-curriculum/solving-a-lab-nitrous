@@ -46,7 +46,7 @@ Beyond all the syntax and code above, can you decipher what we're asking for? Wh
 
 1. You'll have 10% more understanding of how to solve the lab.
 
-2. You'll get better at reading tests and we bet that the next test you read you'll get 12% of it and constantly see improvement through old fashion practice and determination.
+2. You'll get better at reading tests and we bet that the next test you read you'll get 12% of it and constantly see improvement through old-fashioned practice and determination.
 
 3. Almost unconsciously, like Mr. Miyagi in the Karate Kid, you'll actually learn how to read and write tests proficiently, "Wax on, wax off" style.
 
