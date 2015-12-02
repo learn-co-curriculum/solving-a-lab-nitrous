@@ -94,3 +94,5 @@ Eventually your local tests will pass and Learn.co will indicate your success.
 On the left is a passing test run in the console, on the right is what the right column in Learn looks like for a passing local test (which we currently call a "Local Build").
 
 When your local tests are passing, you'll then be ready to submit the lab.
+
+<a href='https://learn.co/lessons/solving-a-lab-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
