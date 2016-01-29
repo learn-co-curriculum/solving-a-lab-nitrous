@@ -95,4 +95,4 @@ On the left is a passing test run in the console, on the right is what the right
 
 When your local tests are passing, you'll then be ready to submit the lab.
 
-<a href='https://learn.co/lessons/solving-a-lab-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/solving-a-lab-nitrous' title='Solving a Lab - Nitrous'>Solving a Lab - Nitrous</a> on Learn.co and start learning to code for free.</p>
